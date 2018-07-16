@@ -9,3 +9,9 @@ Jul, 2018
   > 01_3 Book.com
   
   > 01_4 Book Prices Comparation
+
+02 Data Manipulation
+
+  > 02_1 NumPy-KNN Algorithm
+  
+  > 
